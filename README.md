@@ -449,12 +449,12 @@ Submit a **text file** named: `YourName_StudentID_Assignment1.txt`
 
 **The file should contain:**
 ```
-Student Name: [Your Full Name]
-Student ID: [Your Student ID]
-GitHub Username: [your-github-username]
-Repository Link: https://github.com/[your-username]/OS-Assignment1-[YourName]
-Video Link: [Google Drive link - make sure it's accessible to anyone with the link]
-Date Submitted: [Submission Date]
+Student Name: Jana abdulaziz alhwail
+Student ID: 445052122
+GitHub Username: jana900
+Repository Link: https://github.com/jana900/OS-Assignment1-Jana-Alhwail
+Video Link: [[Google Drive link - make sure it's accessible to anyone with the link]](https://drive.google.com/file/d/1M-Ut9zu5drm-MqdW_DXeSm9E3ANbkuXE/view?usp=drivesdk)
+Date Submitted: March 31,2026
 ```
 
 **Example:**
